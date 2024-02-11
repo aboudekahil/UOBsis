@@ -1,0 +1,15 @@
+{
+    "name": "UOBsismplify",
+    "description": "an quality of life extension to the balamand sis website",
+    "version": "0.0.0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "http://sis.balamand.edu.lb/"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ]
+}
