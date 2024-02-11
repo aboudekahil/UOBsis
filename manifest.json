@@ -1,6 +1,6 @@
 {
     "name": "UOBsismplify",
-    "description": "an quality of life extension to the balamand sis website",
+    "description": "a quality of life extension to the balamand sis website",
     "version": "0.0.0.1",
     "content_scripts": [
         {
